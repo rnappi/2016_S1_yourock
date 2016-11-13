@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exchange ID="1" Status="approved" SenderUserID="5" SenderUserCardID="2" DestinationUserID="7" DestinationUserCardID="4" />
+</ArrayOfExchange>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Id>1</Id>
+    <Image>cards00.jpg</Image>
+    <Name>Alex Lifeson</Name>
+  </Card>
+  <Card>
+    <Id>2</Id>
+    <Image>cards01.jpg</Image>
+    <Name>Zakk Wylde</Name>
+  </Card>
+  <Card>
+    <Id>3</Id>
+    <Image>cards02.jpg</Image>
+    <Name>Tomi Ayomi</Name>
+  </Card>
+  <Card>
+    <Id>4</Id>
+    <Image>cards03.jpg</Image>
+    <Name>Ton Morello</Name>
+  </Card>
+  <Card>
+    <Id>5</Id>
+    <Image>cards04.jpg</Image>
+    <Name>Steve Vai</Name>
+  </Card>
+  <Card>
+    <Id>6</Id>
+    <Image>cards05.jpg</Image>
+    <Name>Steve Morse</Name>
+  </Card>
+  <Card>
+    <Id>7</Id>
+    <Image>cards06.jpg</Image>
+    <Name>Paul Gilbert</Name>
+  </Card>
+  <Card>
+    <Id>8</Id>
+    <Image>cards07.jpg</Image>
+    <Name>Kiko Loureiro</Name>
+  </Card>
+  <Card>
+    <Id>9</Id>
+    <Image>cards08.jpg</Image>
+    <Name>John Petrucci</Name>
+  </Card>
+  <Card>
+    <Id>10</Id>
+    <Image>cards09.jpg</Image>
+    <Name>Joe Satriani</Name>
+  </Card>
+  <Card>
+    <Id>11</Id>
+    <Image>cards10.jpg</Image>
+    <Name>Jimmy Page</Name>
+  </Card>
+  <Card>
+    <Id>12</Id>
+    <Image>cards11.jpg</Image>
+    <Name>Jimi Hendrix</Name>
+  </Card>
+  <Card>
+    <Id>13</Id>
+    <Image>cards12.jpg</Image>
+    <Name>James Hetfield</Name>
+  </Card>
+  <Card>
+    <Id>14</Id>
+    <Image>cards13.jpg</Image>
+    <Name>Eric Clapton</Name>
+  </Card>
+  <Card>
+    <Id>15</Id>
+    <Image>cards14.jpg</Image>
+    <Name>David Gilmour</Name>
+  </Card>
+  <Card>
+    <Id>16</Id>
+    <Image>cards15.jpg</Image>
+    <Name>Chuck Berry</Name>
+  </Card>
+  <Card>
+    <Id>17</Id>
+    <Image>cards16.jpg</Image>
+    <Name>Carlos Santana</Name>
+  </Card>
+  <Card>
+    <Id>18</Id>
+    <Image>cards17.jpg</Image>
+    <Name>Brian May</Name>
+  </Card>
+  <Card>
+    <Id>19</Id>
+    <Image>cards18.jpg</Image>
+    <Name>BB King</Name>
+  </Card>
+  <Card>
+    <Id>20</Id>
+    <Image>cards19.jpg</Image>
+    <Name>Andreas Kisser</Name>
+  </Card>
+</ArrayOfCard>

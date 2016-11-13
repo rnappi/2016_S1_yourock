@@ -1,2 +1,2 @@
-# 2016_S1_yourock
-Album de figurinhas dos melhores guitarristas do mundo (WPF)
+# Yourock
+Album de figurinhas digital criado para a matéria de Algoritmos II do curso de Engenharia da Computação

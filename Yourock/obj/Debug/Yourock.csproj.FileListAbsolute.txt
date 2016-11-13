@@ -1,0 +1,106 @@
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\Yourock.exe.config
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\Yourock.exe
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\Yourock.pdb
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\App.g.cs
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock_MarkupCompile.cache
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock_MarkupCompile.lref
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock.g.resources
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock.Properties.Resources.resources
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock.csproj.GenerateResource.Cache
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock.exe
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Yourock.pdb
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Pages\Login.g.cs
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\Pages\Login.baml
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\App.baml
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\MainWindow.g.cs
+C:\Users\Nappi\Documents\GitHub\yourock\Yourock\obj\Debug\MainWindow.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\AdminUser.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\AdminUser.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\Yourock.exe.config
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.exe
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.pdb
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\Yourock.exe
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\Yourock.pdb
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.csprojResolveAssemblyReference.cache
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\AdminUser.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\Login.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\MainWindow.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\App.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock_MarkupCompile.cache
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock_MarkupCompile.lref
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\App.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\AdminUser.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\Login.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\MainWindow.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.g.resources
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.Properties.Resources.resources
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.csproj.GenerateResource.Cache
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\Album.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\Album.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCCard.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCCard.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCEmptyCard.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCEmptyCard.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCBonus.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCBonus.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\Album.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCBonus.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCCard.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCEmptyCard.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\Pages\Album.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCBonus.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCCard.baml
+C:\Users\Bill Gates\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCEmptyCard.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCAlbum.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCAlbum.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCFreeCardList.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCFreeCardList.baml
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\Yourock.csprojResolveAssemblyReference.cache
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCExchange.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nappi\Documents\GitHub\Yourock\Yourock\obj\Debug\UserControls\UCExchange.baml

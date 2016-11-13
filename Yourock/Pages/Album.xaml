@@ -1,0 +1,16 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Yourock.Pages"
+      xmlns:UserControls="clr-namespace:Yourock.UserControls" x:Name="Container" x:Class="Yourock.Pages.Album"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Album" Width="900" Height="570" Background="Black">
+    <Grid x:Name="grdConatiner">
+        <Canvas x:Name="AlbumContainer" Margin="190,0,0,0"/>
+        <Canvas x:Name="SideListContainer" HorizontalAlignment="Left" Width="190" Margin="0,40,0,0"/>
+        <Button x:Name="button" Content="CARDS" HorizontalAlignment="Left" VerticalAlignment="Top" Width="190" Height="40" Background="#FF878787" BorderThickness="0,0,1,1" FontFamily="Myriad Pro" FontSize="14.667" Foreground="White" Click="button_Click"/>
+    </Grid>
+</Page>

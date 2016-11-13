@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserCard ID="1" UserID="5" CardID="1" Status="album" />
+  <UserCard ID="2" UserID="5" CardID="2" Status="album" />
+  <UserCard ID="4" UserID="5" CardID="4" Status="album" />
+  <UserCard ID="5" UserID="5" CardID="5" Status="album" />
+  <UserCard ID="6" UserID="5" CardID="6" Status="album" />
+  <UserCard ID="7" UserID="5" CardID="7" Status="album" />
+  <UserCard ID="8" UserID="5" CardID="8" Status="album" />
+  <UserCard ID="9" UserID="5" CardID="9" Status="album" />
+  <UserCard ID="10" UserID="5" CardID="10" Status="album" />
+  <UserCard ID="11" UserID="5" CardID="11" Status="album" />
+  <UserCard ID="12" UserID="5" CardID="12" Status="album" />
+  <UserCard ID="13" UserID="5" CardID="13" Status="album" />
+  <UserCard ID="14" UserID="5" CardID="14" Status="album" />
+  <UserCard ID="15" UserID="5" CardID="15" Status="album" />
+  <UserCard ID="16" UserID="5" CardID="16" Status="album" />
+  <UserCard ID="17" UserID="5" CardID="17" Status="album" />
+  <UserCard ID="18" UserID="5" CardID="18" Status="album" />
+  <UserCard ID="19" UserID="5" CardID="19" Status="album" />
+  <UserCard ID="20" UserID="5" CardID="20" Status="album" />
+  <UserCard ID="21" UserID="7" CardID="3" Status="album" />
+  <UserCard ID="22" UserID="5" CardID="18" Status="free" />
+</ArrayOfUserCard>

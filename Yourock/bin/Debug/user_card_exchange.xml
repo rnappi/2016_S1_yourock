@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserCardExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserCardExchange USerID="5" CardID="2" AllowExchange="true" />
+  <UserCardExchange USerID="5" CardID="3" AllowExchange="true" />
+  <UserCardExchange USerID="5" CardID="1" AllowExchange="false" />
+  <UserCardExchange USerID="5" CardID="5" AllowExchange="true" />
+  <UserCardExchange USerID="5" CardID="13" AllowExchange="false" />
+  <UserCardExchange USerID="7" CardID="3" AllowExchange="true" />
+  <UserCardExchange USerID="5" CardID="18" AllowExchange="true" />
+</ArrayOfUserCardExchange>

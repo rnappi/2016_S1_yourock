@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yourock"
+        xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" x:Class="Yourock.MainWindow"
+        mc:Ignorable="d"
+        Title="Yourock" Height="600" Width="900" Background="Black" Foreground="White" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" FontFamily="Myriad Pro Light" FontSize="13.333">
+    <Grid>
+        <Frame x:Name="frmContainer" Content="Frame" Margin="0,30,0,0" NavigationUIVisibility="Hidden"/>
+        <Rectangle Fill="#FF282828" HorizontalAlignment="Left" Height="30" Margin="0" Stroke="Black" VerticalAlignment="Top" Width="900" StrokeThickness="0"/>
+        <Button x:Name="btnClose" Content="X" HorizontalAlignment="Right" Margin="0" VerticalAlignment="Top" Width="45" Style="{DynamicResource btnTitleBar}" BorderThickness="0" Height="30" Background="#FF282828" Foreground="White" FontFamily="Myriad Pro Light" FontSize="13.333" Click="btnClose_Click"/>
+        <Label x:Name="label" Content="Yourock" Margin="399,2.995,399,0" VerticalAlignment="Top" Foreground="White" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Source="images/icon_titleBar.png" Width="17" Height="20"/>
+    </Grid>
+</Window>

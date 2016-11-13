@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Log UserID="5" AccessDate="2016-05-30T23:19:08.328185-03:00" />
+  <Log UserID="5" AccessDate="2016-05-31T00:01:49.3683249-03:00" />
+  <Log UserID="7" AccessDate="2016-05-31T23:24:04.1943507-03:00" />
+  <Log UserID="5" AccessDate="2016-06-01T00:27:49.3396288-03:00" />
+  <Log UserID="7" AccessDate="2016-06-01T18:29:04.156587-03:00" />
+  <Log UserID="5" AccessDate="2016-06-27T22:07:32.2116693-03:00" />
+</ArrayOfLog>

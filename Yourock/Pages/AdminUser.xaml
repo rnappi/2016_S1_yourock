@@ -1,0 +1,44 @@
+﻿<Page x:Class="Yourock.Pages.AdminUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Yourock.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="AdminUser" Width="900" Height="570">
+
+    <Grid Background="White">
+
+        <Canvas x:Name="MenuSuperior" Margin="0,25,0,0" VerticalAlignment="Top" Height="75">
+            <Button x:Name="btnNewUser" Content="NOVO COLECIONADOR" Height="29.46" Background="White" BorderBrush="{x:Null}" FontFamily="Myriad Pro Light" FontSize="13.333" Style="{DynamicResource btnAdminMenu}" IsEnabled="False" Canvas.Left="325" Canvas.Top="20" Width="148"/>
+            <Button x:Name="btnNewCard" Content="EDITAR CARDS" Width="99" Height="29.46" Background="White" BorderBrush="{x:Null}" FontFamily="Myriad Pro Light" FontSize="13.333" Style="{DynamicResource btnAdminMenu}" Canvas.Left="476" Canvas.Top="20"/>
+
+            <Path Data="M165,40 L389.5,40" Fill="#FFCCCCCC" Height="1" Stretch="Fill" Stroke="#FFCCCCCC" Canvas.Left="175" Canvas.Top="19" Width="725"/>
+            <Path Data="M165,40 L389.5,40" Fill="#FFCCCCCC" Height="1" Stretch="Fill" Stroke="#FFCCCCCC" Canvas.Left="155" Canvas.Top="47" Width="745"/>
+            <Image x:Name="image" Source="/Yourock;component/images/logo_preto.png" Width="150" Height="69" d:LayoutOverrides="Width" Canvas.Left="58.829" Canvas.Top="0"/>
+            <Path Data="M475,50 L475,64.5" Fill="#FFCCCCCC" Height="15.5" Stretch="Fill" Stroke="Black" Width="1" Canvas.Left="474" Canvas.Top="26"/>
+        </Canvas>
+        <Canvas x:Name="Form" Margin="305,199.5,305,194" Width="290">
+            <TextBox x:Name="txtLogin" TextWrapping="Wrap" Width="290" Style="{DynamicResource TextBoxDefault}" BorderBrush="#FFCCCCCC" FontFamily="Myriad Pro Light" Height="25" Canvas.Left="0" Canvas.Top="25"/>
+            <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Width="290" Style="{DynamicResource PasswordBoxDefault}" BorderBrush="#FFCCCCCC" Height="25" FontFamily="Myriad Pro Light" d:LayoutOverrides="Height" Canvas.Left="0" Canvas.Top="87"/>
+            <Label x:Name="label" Content="*Login" HorizontalContentAlignment="Center" Foreground="#FF666666" FontFamily="Myriad Pro" Canvas.Left="0" Canvas.Top="0" Width="290"/>
+            <Label x:Name="label_Copy" Content="*Password" HorizontalContentAlignment="Center" Foreground="#FF666666" FontFamily="Myriad Pro" Canvas.Left="0" Canvas.Top="62" Width="290"/>
+            <Label x:Name="label_Copy1" Content="*Tipo de Usuário" HorizontalContentAlignment="Center" Foreground="#FF666666" FontFamily="Myriad Pro" Canvas.Left="0" Canvas.Top="125.5" Width="290"/>
+            <ComboBox x:Name="cblType" Canvas.Top="150.54" Width="290"/>
+        </Canvas>
+        <Button x:Name="btnSave" Content="CADASTRAR COLECIONADOR" Height="35" Margin="305,0,305,138" VerticalAlignment="Bottom" BorderThickness="0" Style="{DynamicResource btnDefault}" Background="#FFD0B03A" Foreground="White" FontFamily="Myriad Pro Light" FontSize="16" RenderTransformOrigin="0.5,0.5" Click="btnSave_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Image x:Name="image1" Margin="305,143,305,0" VerticalAlignment="Top" Source="/Yourock;component/images/title_admin_user.png" Stretch="None"/>
+        <TextBlock x:Name="txtError" Margin="305,0,305,97.6" TextWrapping="Wrap" VerticalAlignment="Bottom" Foreground="#FF18C146" FontFamily="Myriad Pro" Width="290" TextAlignment="Center"/>
+
+    </Grid>
+</Page>

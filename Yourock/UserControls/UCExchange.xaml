@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="Yourock.UserControls.UCExchange"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Yourock.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Width="900" Height="570">
+    <Canvas x:Name="BonusModal" Background="#D8000000" d:LayoutOverrides="LeftPosition, RightPosition, TopPosition, BottomPosition">
+        <Rectangle Fill="#CC414141" Height="300" Stroke="Black" Canvas.Top="130" Width="900"/>
+        <Rectangle Fill="#FF414141" Height="275" Stroke="Black" Canvas.Top="170" Width="900"/>
+        <Button x:Name="btnConfirm" Content="TROCAR" Height="35" BorderThickness="0" Width="130" Style="{DynamicResource btnDefault}" Background="#FFD0B03A" Foreground="White" FontFamily="Myriad Pro Light" FontSize="16" RenderTransformOrigin="0.5,0.5" Canvas.Left="385" Canvas.Top="315.5" Click="btnConfirm_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock x:Name="textBlock1" Height="30" Canvas.Left="195" TextWrapping="Wrap" Canvas.Top="138.5" Width="160" Foreground="White" TextAlignment="Center" FontFamily="Myriad Pro Light" FontSize="21.333"><Run Text="Você vai "/><Run Text="RECEBER"/></TextBlock>
+        <Button x:Name="btnCancel" Content="CANCELAR" Height="35" BorderThickness="0" Width="130" Style="{DynamicResource btnDefault}" Background="#FFD0B03A" Foreground="White" FontFamily="Myriad Pro Light" FontSize="16" RenderTransformOrigin="0.5,0.5" Canvas.Left="385" Canvas.Top="363" Click="btnCancel_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Image x:Name="image" Height="75" Canvas.Left="408" Canvas.Top="211" Width="75" Source="/Yourock;component/images/exchange_icon.png" Stretch="None"/>
+        <TextBlock x:Name="textBlock1_Copy" Height="30" Canvas.Left="545" TextWrapping="Wrap" Canvas.Top="138.5" Width="160" Foreground="White" TextAlignment="Center" FontFamily="Myriad Pro Light" FontSize="21.333"><Run Text="Você vai "/><Run Text="ENVIAR"/></TextBlock>
+        <Canvas x:Name="DestinationContainer" Height="230" Canvas.Left="196.5" Canvas.Top="193.5" Width="160"/>
+        <Canvas x:Name="SenderContainer" Height="230" Canvas.Left="546" Canvas.Top="193.5" Width="160"/>
+    </Canvas>
+</UserControl>
